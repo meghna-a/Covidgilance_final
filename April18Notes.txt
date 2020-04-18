@@ -1,9 +1,8 @@
 April 18th Notes
 
-Agreed: we're creating one matrix basically from scratch
-MA There are means of checking one variable at a time
+The project: Create a model that will tell us "when can States open for business?"
 
-The moonshot: Create a model that will tell us "when can we open?"
+Note: no model can actuallly answer that question, so we have to define our questions to the model carefully.
 
 The steps: 
 1.  our "y" output value is county-by-county deaths/1MM (or serious cases per 1MM)
