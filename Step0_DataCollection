@@ -1,8 +1,0 @@
-This folder is where we should put all of the datasets we will use to create the model      
-
-* By county data, preferably
-* Simple data first, then we'll use more complicated data when we get good results
-* 
-
-Examples:  % smokers, % diabetes, sunlight, latitude, hospital rank, quarantine rating,
-population density, mass transportation usage, # of tests, income, % poverty, median age          
