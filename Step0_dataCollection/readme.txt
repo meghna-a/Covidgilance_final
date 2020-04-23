@@ -9,3 +9,16 @@ Data we have and have not sorted:
 * Age % by group
 * Gender % by group
 * Race % by Group
+* Median Income
+* Health Ranking
+* April 18th deaths (our y vector)
+* April 11th deaths
+
+Data we would like:
+* Mass transit info 
+* Solar radiation info
+* Asthma %
+* Smoking %
+* Diabetes %
+
+
