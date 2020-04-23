@@ -1,10 +1,10 @@
-#April 18th Notes
+April 18th Notes
 
-## The project: 
+The project: 
 Create a model that will tell us "when can States open for business?"
 Note: no model can actuallly answer that question, so we have to define our questions to the model carefully.
 
-##  The steps: 
+The steps: 
 1.  our "y" output value is county-by-county deaths/1MM (or serious cases per 1MM)
 2.  We will create our "X" matrix with county data
 3.  We will use several different machine learning methods to match the X to the y.
