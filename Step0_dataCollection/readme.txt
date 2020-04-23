@@ -1,8 +1,9 @@
-This folder is where we should put all of the datasets we will use to create the model      
+This folder contains all of our single-vector data by county.  
+It should include three rows: the county name, the state, and the data vector.  
+Only contiguous 48 states should be used.  
+All rows are to be sorted alphabetically by state, then sorted alphabetically by county.
 
-* By county data, preferably
-* Simple data first, then we'll use more complicated data when we get good results
+Data we have and have not sorted:
+* Poverty % 
+* Population Density
 * 
-
-Examples:  % smokers, % diabetes, sunlight, latitude, hospital rank, quarantine rating,
-population density, mass transportation usage, # of tests, income, % poverty, median age 
