@@ -7,14 +7,14 @@ All rows are to be sorted alphabetically by state, then sorted alphabetically by
 * Poverty % 
 * Median Income
 * Population Density
+* April 18th deaths (our y vector)
+* April 11th deaths
 
 ## Data collected but not sorted:
 * Age % by group
 * Gender % by group
 * Race % by Group
 * Health Ranking
-* April 18th deaths (our y vector)
-* April 11th deaths
 
 ## Data to collect:
 * Mass transit info 
