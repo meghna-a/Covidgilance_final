@@ -1,10 +1,7 @@
 # Summary
-This folder contains all of our single-vector data by county.  
-It should include three rows: the county name, the state, and the data vector.   
-FIPS data can be used, too.
+This folder contains all of our single-vector data by county. It should include three rows: the county name, the state, and the data vector.  FIPS data can be included, too.
 
-All rows are to be sorted alphabetically by state, then sorted alphabetically by county.
-(This is equivalent to sorting by FIPS)
+All rows are to be sorted alphabetically by state, then sorted alphabetically by county. (This is equivalent to sorting by FIPS).
 
 ## Data we have sorted:
 * Poverty % 
