@@ -6,9 +6,9 @@ All rows are to be sorted alphabetically by state, then sorted alphabetically by
 ## Data we have sorted:
 * Poverty % 
 * Median Income
+* Population Density
 
 ## Data collected but not sorted:
-* Population Density
 * Age % by group
 * Gender % by group
 * Race % by Group
