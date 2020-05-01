@@ -1,4 +1,4 @@
-﻿County,State,FIPS,Cases,Deaths
+County,State,FIPS,Apr11_Cases,Apr11_Deaths
 Autauga,Alabama,1001,19,1
 Baldwin,Alabama,1003,66,1
 Barbour,Alabama,1005,10,0
@@ -65,17 +65,6 @@ Walker,Alabama,1127,78,0
 Washington,Alabama,1129,12,1
 Wilcox,Alabama,1131,25,0
 Winston,Alabama,1133,4,0
-Anchorage,Alaska,2020,121,4
-Bethel Census Area,Alaska,2050,1,0
-Fairbanks North Star Borough,Alaska,2090,76,2
-Juneau City and Borough,Alaska,2110,15,0
-Kenai Peninsula Borough,Alaska,2122,14,0
-Ketchikan Gateway Borough,Alaska,2130,14,0
-Matanuska-Susitna Borough,Alaska,2170,10,0
-Petersburg Borough,Alaska,2195,1,0
-Prince of Wales-Hyder Census Area,Alaska,2198,1,0
-Southeast Fairbanks Census Area,Alaska,2240,1,0
-Yukon-Koyukuk Census Area,Alaska,2290,1,0
 Apache,Arizona,4001,66,3
 Cochise,Arizona,4003,13,0
 Coconino,Arizona,4005,238,15
@@ -505,10 +494,6 @@ Wilcox,Georgia,13315,5,0
 Wilkes,Georgia,13317,6,0
 Wilkinson,Georgia,13319,10,1
 Worth,Georgia,13321,80,4
-Hawaii,Hawaii,15001,34,0
-Honolulu,Hawaii,15003,348,5
-Kauai,Hawaii,15007,19,0
-Maui,Hawaii,15009,80,3
 Ada,Idaho,16001,517,6
 Adams,Idaho,16003,1,0
 Bannock,Idaho,16005,5,0
@@ -2629,33 +2614,3 @@ Sweetwater,Wyoming,56037,7,0
 Teton,Wyoming,56039,53,0
 Uinta,Wyoming,56041,4,0
 Washakie,Wyoming,56043,4,0
-Unknown,Arizona,,0,5
-Unknown,Arkansas,,19,0
-Unknown,Colorado,,175,0
-Unknown,Connecticut,,456,5
-Unknown,Delaware,,13,0
-Unknown,Florida,,2,0
-Unknown,Georgia,,1300,4
-Unknown,Guam,,681,5
-Unknown,Hawaii,,3,0
-Unknown,Illinois,,85,0
-Unknown,Kansas,,0,4
-Unknown,Louisiana,,54,3
-Unknown,Maine,,3,0
-Unknown,Massachusetts,,225,9
-Unknown,Michigan,,474,15
-Unknown,Minnesota,,3,0
-Kansas City,Missouri,,298,8
-Unknown,Missouri,,1,0
-Unknown,Nevada,,0,3
-Unknown,New Hampshire,,1,0
-Unknown,New Jersey,,924,2
-New York City,New York,,98308,6202
-Unknown,Northern Mariana Islands,,11,2
-Unknown,Puerto Rico,,788,42
-Unknown,Rhode Island,,673,36
-Unknown,Utah,,22,7
-Unknown,Vermont,,11,0
-Unknown,Virgin Islands,,51,1
-Unknown,Virginia,,0,58
-Unknown,Washington,,583,0

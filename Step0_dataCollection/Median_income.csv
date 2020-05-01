@@ -66,35 +66,6 @@ FIPStxt,Stabr,Area_name,Median_Income
 1129,AL,Washington County,"44,424"
 1131,AL,Wilcox County,"25,385"
 1133,AL,Winston County,"41,156"
-2013,AK,Aleutians East Borough,"70,081"
-2016,AK,Aleutians West Census Area,"82,633"
-2020,AK,Anchorage Borough,"82,113"
-2050,AK,Bethel Census Area,"44,304"
-2060,AK,Bristol Bay Borough,"77,257"
-2068,AK,Denali Borough,"75,477"
-2070,AK,Dillingham Census Area,"54,524"
-2090,AK,Fairbanks North Star Borough,"74,268"
-2100,AK,Haines Borough,"58,943"
-2105,AK,Hoonah-Angoon Census Area,"51,188"
-2110,AK,Juneau Borough,"79,173"
-2122,AK,Kenai Peninsula Borough,"65,439"
-2130,AK,Ketchikan Gateway Borough,"68,309"
-2150,AK,Kodiak Island Borough,"74,109"
-2158,AK,Kusilvak Census Area,"32,728"
-2164,AK,Lake and Peninsula Borough,"49,403"
-2170,AK,Matanuska-Susitna Borough,"74,649"
-2180,AK,Nome Census Area,"55,318"
-2185,AK,North Slope Borough,"89,276"
-2188,AK,Northwest Arctic Borough,"59,337"
-2195,AK,Petersburg Borough,"66,075"
-2198,AK,Prince of Wales-Hyder Census Area,"49,356"
-2220,AK,Sitka Borough,"71,825"
-2230,AK,Skagway Municipality,"74,635"
-2240,AK,Southeast Fairbanks Census Area,"63,527"
-2261,AK,Valdez-Cordova Census Area,"68,528"
-2275,AK,Wrangell City and Borough,"57,832"
-2282,AK,Yakutat Borough,"59,523"
-2290,AK,Yukon-Koyukuk Census Area,"38,912"
 4001,AZ,Apache County,"33,652"
 4003,AZ,Cochise County,"49,164"
 4005,AZ,Coconino County,"60,187"
@@ -545,10 +516,6 @@ FIPStxt,Stabr,Area_name,Median_Income
 13317,GA,Wilkes County,"39,361"
 13319,GA,Wilkinson County,"41,036"
 13321,GA,Worth County,"48,708"
-15001,HI,Hawaii County,"56,383"
-15003,HI,Honolulu County,"83,695"
-15007,HI,Kauai County,"73,981"
-15009,HI,Maui County,"78,503"
 16001,ID,Ada County,"66,827"
 16003,ID,Adams County,"45,311"
 16005,ID,Bannock County,"51,300"
@@ -3140,3 +3107,36 @@ FIPStxt,Stabr,Area_name,Median_Income
 56041,WY,Uinta County,"63,401"
 56043,WY,Washakie County,"55,190"
 56045,WY,Weston County,"54,319"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

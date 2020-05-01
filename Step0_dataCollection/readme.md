@@ -9,18 +9,20 @@ All rows are to be sorted alphabetically by state, then sorted alphabetically by
 * Population Density
 * April 18th deaths (our y vector)
 * April 11th deaths
-
-## Data collected but not sorted:
 * Age % by group
 * Gender % by group
-* Race % by Group
 * Health Ranking
+
+## Data collected but not sorted:
+* Diabetes %
+* Race % by Group
+* Hypertension
 
 ## Data to collect:
 * Mass transit info 
 * Solar radiation info
 * Asthma %
 * Smoking %
-* Diabetes %
+
 
 
