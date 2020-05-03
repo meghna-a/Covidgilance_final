@@ -1,4 +1,4 @@
-﻿County ,State,FIPS,Cases,Deaths
+﻿County ,State,FIPS,Apr18_Cases,Apri18_Deaths
 Autauga,Alabama,1001,25,2
 Baldwin,Alabama,1003,109,2
 Barbour,Alabama,1005,18,0
@@ -66,19 +66,6 @@ Walker,Alabama,1127,83,0
 Washington,Alabama,1129,15,1
 Wilcox,Alabama,1131,45,0
 Winston,Alabama,1133,9,0
-Anchorage,Alaska,2020,151,4
-Bethel Census Area,Alaska,2050,1,0
-Fairbanks North Star Borough,Alaska,2090,79,2
-Juneau City and Borough,Alaska,2110,24,0
-Kenai Peninsula Borough,Alaska,2122,18,0
-Ketchikan Gateway Borough,Alaska,2130,15,0
-Kodiak Island Borough,Alaska,2150,1,0
-Matanuska-Susitna Borough,Alaska,2170,17,1
-Nome Census Area,Alaska,2180,1,0
-Petersburg Borough,Alaska,2195,1,0
-Prince of Wales-Hyder Census Area,Alaska,2198,2,0
-Southeast Fairbanks Census Area,Alaska,2240,1,0
-Yukon-Koyukuk Census Area,Alaska,2290,1,0
 Apache,Arizona,4001,169,4
 Cochise,Arizona,4003,22,0
 Coconino,Arizona,4005,314,29
@@ -510,10 +497,6 @@ Wilcox,Georgia,13315,42,2
 Wilkes,Georgia,13317,12,0
 Wilkinson,Georgia,13319,20,1
 Worth,Georgia,13321,119,5
-Hawaii,Hawaii,15001,61,0
-Honolulu,Hawaii,15003,382,6
-Kauai,Hawaii,15007,21,0
-Maui,Hawaii,15009,104,3
 Ada,Idaho,16001,570,10
 Adams,Idaho,16003,1,0
 Bannock,Idaho,16005,5,0
@@ -2729,35 +2712,3 @@ Sweetwater,Wyoming,56037,10,0
 Teton,Wyoming,56039,62,0
 Uinta,Wyoming,56041,6,0
 Washakie,Wyoming,56043,4,0
-Unknown,Arkansas,,46,0
-Unknown,Colorado,,80,1
-Unknown,Connecticut,,525,3
-Unknown,Delaware,,30,0
-Unknown,Florida,,3,0
-Unknown,Georgia,,245,0
-Unknown,Guam,,805,6
-Unknown,Illinois,,83,0
-Unknown,Iowa,,1,0
-Unknown,Kansas,,0,1
-Unknown,Kentucky,,35,0
-Unknown,Louisiana,,57,1
-Unknown,Maine,,1,0
-Unknown,Maryland,,0,96
-Unknown,Massachusetts,,733,41
-Unknown,Michigan,,643,22
-Unknown,Minnesota,,4,0
-Kansas City,Missouri,,412,13
-Unknown,Missouri,,2,0
-Unknown,Nevada,,6,3
-Unknown,New Hampshire,,0,1
-Unknown,New Jersey,,748,2
-New York City,New York,,131273,8632
-Unknown,New York,,0,1170
-Unknown,Northern Mariana Islands,,14,2
-Unknown,Puerto Rico,,1068,58
-Unknown,Rhode Island,,815,117
-Unknown,Utah,,0,1
-Unknown,Vermont,,10,0
-Unknown,Virgin Islands,,51,2
-Unknown,Virginia,,1,114
-Unknown,Washington,,233,0
